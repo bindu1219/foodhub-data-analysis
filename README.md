@@ -1,4 +1,4 @@
-# 🍴 FoodHub Data Analysis Project
+# 🍴 Restaurant Data Analysis Project
 
 Analyzed restaurant performance data from **FoodHub**, focusing on order preparation times, cuisine types, and delivery efficiency.
 
